@@ -1,1 +1,39 @@
 
+<!DOCTYPE html>
+<html>
+	<head>
+<style> #title {color:Green; font-size:80px;  font-family: 'Tangerine', serif; text-align: center;} </style>
+<style> #decor {color:#606060; font-size:28px;} </style>
+<style> #bioo, #dislikee, #likee {color:; font-size:16px;} </style>
+<style> #bodd {color:#606060; font-size:14px;} </style>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+
+
+	</head>
+	<body bgcolor="#E6E6FA">>
+<p> <h1 id="title"> <font face="Lobster;" color="green">Karen Rosales</font> </h1> </p>
+  <h1 id="decor">  ~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~.~ </h1>
+
+    <strong><p id="bioo">Bio:</p></strong>
+<p id="bodd">    	I am from Los Angeles, California. Currently attend
+	Santa Fe High School and going to be a rising senior. I am currently
+	involved in my Business Academy program and the STEM club.
+	 At home, I have one younger sister and a dog, his name is Osito.
+	  I spend most of my time on my computer than anything else.</p>
+
+<strong><p id="likee">    Likes:</p></strong>
+<p id="bodd">    	Playing games, cats, Netflix, and Twitch.</p>
+
+Z
+<strong> <p id="dislikee">    Dislikes:</p> </strong>
+<p id="bodd">    	Anything slow and fish.</p>
+<p id="bodd"> This is a picture of my doggo.</p>
+<P> <img src="IMG_0087.jpg" alt="Doggo" width=30% height=Auto>
+
+<br>
+
+
+
+	</body>
+</html>
